@@ -120,4 +120,3 @@ public class MainActivity extends AppCompatActivity {
 
 ## RESULT
 The application successfully displays an options menu with various items, and upon selecting any item, a toast message shows the selected item.
-](https://github.com/Ashwinkumar26/Ex_9_Calculator.git)
